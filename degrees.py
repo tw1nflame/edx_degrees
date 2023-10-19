@@ -14,6 +14,8 @@ movies = {}
 
 lala = {}
 
+print(123)
+
 
 def load_data(directory):
     """
